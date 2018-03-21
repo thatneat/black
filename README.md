@@ -188,7 +188,7 @@ bother you if you overdo it by a few km/h".
 *Black* will allow single empty lines left by the original editors,
 except when they're added within parenthesized expressions.  Since such
 expressions are always reformatted to fit minimal space, this whitespace
-is lost.
+is removed.
 
 It will also insert proper spacing before and after function definitions.
 It's one line before and after inner functions and two lines before and
